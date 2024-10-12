@@ -1,13 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ains</h1>
-<h3 align="center">A passionate developer from the Philippines. I can build frontend and backend, and also specializes in pentesting applications.</h3>
+<h3 align="center">A passionate developer from the Philippines. I can build both frontend and backend, and also specializes in pentesting applications.</h3>
 
-- 🔭 I find bugs and create **exploits**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reizedlav&label=Profile%20views&color=0e75b6&style=flat" alt="reizedlav" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reizedlav" alt="reizedlav" /></a> </p>
+
+- 🔭 I find bugs and create **exploits.**
 
 - 🌱 I’m currently learning **low level languages.**
 
 - 👯 I’m looking forward to collaborate with **bug hunting.**
 
+- 🤝 I’m looking forward to participate in **open source projects.**
+
+- 📝 I mostly write code to [automate tasks.](automate tasks.)
+
 - 💬 Ask me anything about **vulnerabilities.**
+
+- 📫 You may directly contact me on my **socials.**
+
+- 📄 I have experience in creating [bug reports.](bug reports.)
 
 - ⚡ Fun fact **good music catches my attention.**
 
