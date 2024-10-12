@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ains</h1>
-<h3 align="center">A passionate developer from the Philippines.</h3>
+<h3 align="center">A passionate developer from the Philippines. I can build frontend and backend, and also specializes in pentesting applications.</h3>
 
 - 🔭 I find bugs and create **exploits**
 
-- 👯 I’m looking forward to collaborate with [bug hunting](hackerone.com)
+- 🌱 I’m currently learning **low level languages.**
+
+- 👯 I’m looking forward to collaborate with **bug hunting.**
+
+- 💬 Ask me anything about **vulnerabilities.**
+
+- ⚡ Fun fact **good music catches my attention.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/ainsleezedlav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ainsleezedlav" height="30" width="40" /></a>
+<a href="https://instagram.com/ains.l33t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ains.l33t" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
