@@ -17,7 +17,7 @@
 
 - 📫 You may directly contact me on my **socials.**
 
-- ⚡ Fun fact **good music catches my attention.**
+- ⚡ Fun fact: **your username reveals alot about you.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
