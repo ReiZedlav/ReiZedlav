@@ -1,10 +1,9 @@
 <h1 align="center">Salutations 👋, I'm Ains</h1>
 <h3 align="center">An aspiring, yet passionate developer from the Philippines. I can build both frontend and backend, and I also specialize in pentesting all sorts of applications.</h3>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3290623" style='border:none;'></iframe>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reizedlav&label=Profile%20views&color=0e75b6&style=flat" alt="reizedlav" /> </p>
+
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3290623" style='border:none;'></img>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reizedlav" alt="reizedlav" /></a> </p>
 
