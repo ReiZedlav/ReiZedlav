@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reizedlav&label=Profile%20views&color=0e75b6&style=flat" alt="reizedlav" /> </p>
 
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3290623" style='border:none;'></img>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reizedlav" alt="reizedlav" /></a> </p>
 
 - 🔭 I find bugs and create **exploits.**
